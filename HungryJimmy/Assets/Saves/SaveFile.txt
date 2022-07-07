@@ -1,0 +1,1 @@
+{"playerPos":{"x":-39.602378845214847,"y":3.7172560691833498,"z":-48.06055450439453},"playerRot":{"x":0.0,"y":77.21802520751953,"z":0.0},"invenArrayNumber":[],"invenItemName":[],"invenItemNumber":[]}
